@@ -10,6 +10,13 @@ while (i < j) {
 }
 ```
 
+```Python
+class Solution:
+    def reverseString(self, s: List[str]) -> None:
+        s.reverse()
+```
+
+
 [#array](array.md)
 
 ## Array complexity: access, search, insert, delete
